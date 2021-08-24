@@ -1,2 +1,3 @@
 # hello-world
-my first program
+This is my first program!!!
+Wish me luck.
